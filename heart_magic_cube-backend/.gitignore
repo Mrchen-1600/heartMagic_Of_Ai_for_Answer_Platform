@@ -1,0 +1,10 @@
+### @author 尘小风 ###
+
+.idea
+.git
+target
+src/test
+
+src/main/resources/application-prod.yml
+src/main/resources/application-test.yml
+
